@@ -1,5 +1,8 @@
 # mathToProgramming
-I've noted the correlations between math and functional programming. Let's explore it.
+Explore the similarities between simplification and order of operations in maths, and functional compostion and a code base's cognitive complexity.
+
+## Summary
+// TODO
 
 ## History of Functional Programming
 When there was a craze for developers in the 90s, mainstream programming switched from functional to classical, or verb based to noun based. Before the developer craze, most programmers were mathematicians, and it makes sense that the paradigm was closer to math. Take the base function for calculating derivitives as an example:
